@@ -12,3 +12,13 @@ __Liste numérotés:__
 
 
 # __Image__
+
+* Image jpg
+
+![googleImg](google.jpg)
+
+* Image gif
+
+![googleGif](google.gif)
+
+[Markdown](https://github.com/memo097/exercice-markdown/blob/master/README.md)
