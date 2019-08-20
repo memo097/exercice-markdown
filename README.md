@@ -16,3 +16,7 @@
 1. Commencer à écrire après 1. 2. 3. etc...
 
 [MonProfil](https://github.com/memo097)
+
+![Alt Text](https://media.giphy.com/media/12IS8ZMgRw2aLC/giphy.gif)
+
+![Texte alternatif](https://i.ytimg.com/vi/17Hg34LJuNc/hqdefault.jpg)
