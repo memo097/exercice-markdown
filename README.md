@@ -20,3 +20,5 @@
 ![Alt Text](https://media.giphy.com/media/12IS8ZMgRw2aLC/giphy.gif)
 
 ![Texte alternatif](https://i.ytimg.com/vi/17Hg34LJuNc/hqdefault.jpg)
+
+[SEARCHGOOGLE](https://github.com/memo097/exercice-markdown/blob/master/SEARCHGOOGLE.md)
